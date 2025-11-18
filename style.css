@@ -1,0 +1,53 @@
+@import url('https://fonts.cdnfonts.com/css/tourney');
+@import url('https://fonts.cdnfonts.com/css/actor');
+.logo{
+width: 100dvh;
+margin: 0 auto;
+}
+
+h1{
+font-family: 'Tourney', sans-serif;
+text-align: center;                                                                                          
+}
+
+h3{
+    font-family: 'Tourney', sans-serif;
+text-align: center; 
+}
+
+body{
+ background-color: rgb(245, 180, 40);
+ text-align: center;
+}
+    
+
+
+div{
+    width: 75%;
+    padding: 5%;
+    background-color: #ec7239;
+    margin: 0 auto;
+    border-radius: 15px;
+    color: #ffffff;
+    font-family: 'Actor', sans-serif;
+}
+
+p{
+    font-family: 'Actor', sans-serif;
+    color: #ec7239;
+}
+
+.final{
+    height: 200px;
+    width: 15
+    0px;
+}
+
+a{
+color: rgb(255, 255, 255);
+font-size: x-large;
+}
+
+a-hover{
+    color: rgb(3, 36, 68);
+}
